@@ -1,4 +1,4 @@
-## Olá eu sou o Felipe Alessander, Desenvolvedor e estudante de Engenharia da Computação!!!
+## Olá eu sou o Felipe Alessander, Desenvolvedor e Engenheiro da Computação!!!
 
 <div align="center">
   <a href="https://github.com/Feeh03114">
