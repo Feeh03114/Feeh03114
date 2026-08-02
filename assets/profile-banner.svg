@@ -1,0 +1,72 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="80" y1="20" x2="1120" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#102A43"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1080" cy="52" r="170" fill="#38BDF8" fill-opacity="0.07"/>
+  <circle cx="980" cy="330" r="215" fill="#2DD4BF" fill-opacity="0.08"/>
+  <path d="M0 302C186 250 304 334 493 286C681 238 784 159 1200 229V360H0V302Z" fill="#020617" fill-opacity="0.18"/>
+
+  <g opacity="0.28">
+    <path d="M720 86H1114" stroke="#BAE6FD" stroke-width="1" stroke-dasharray="5 8"/>
+    <path d="M720 180H1114" stroke="#BAE6FD" stroke-width="1" stroke-dasharray="5 8"/>
+    <path d="M720 274H1114" stroke="#BAE6FD" stroke-width="1" stroke-dasharray="5 8"/>
+  </g>
+
+  <text x="72" y="103" fill="#7DD3FC" font-size="20" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="3">FULL STACK DEVELOPER</text>
+  <text x="68" y="169" fill="white" font-size="54" font-family="Arial, Helvetica, sans-serif" font-weight="800">Felipe Alessander</text>
+  <text x="72" y="211" fill="#D7E6F3" font-size="23" font-family="Arial, Helvetica, sans-serif">Produtos SaaS, sistemas corporativos e arquitetura ponta a ponta</text>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">
+    <rect x="72" y="247" width="104" height="38" rx="19" fill="#0F172A" fill-opacity="0.72" stroke="#38BDF8" stroke-opacity="0.65"/>
+    <text x="96" y="272" fill="#E0F2FE">React</text>
+    <rect x="188" y="247" width="104" height="38" rx="19" fill="#0F172A" fill-opacity="0.72" stroke="#38BDF8" stroke-opacity="0.65"/>
+    <text x="216" y="272" fill="#E0F2FE">Node.js</text>
+    <rect x="304" y="247" width="104" height="38" rx="19" fill="#0F172A" fill-opacity="0.72" stroke="#2DD4BF" stroke-opacity="0.65"/>
+    <text x="338" y="272" fill="#CCFBF1">Java</text>
+    <rect x="420" y="247" width="104" height="38" rx="19" fill="#0F172A" fill-opacity="0.72" stroke="#2DD4BF" stroke-opacity="0.65"/>
+    <text x="453" y="272" fill="#CCFBF1">.NET</text>
+    <rect x="536" y="247" width="112" height="38" rx="19" fill="#0F172A" fill-opacity="0.72" stroke="#A5F3FC" stroke-opacity="0.65"/>
+    <text x="564" y="272" fill="#CFFAFE">DevOps</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="745" y="72" width="178" height="104" rx="18" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <circle cx="775" cy="101" r="8" fill="#38BDF8"/>
+    <text x="795" y="108" fill="white" font-size="17" font-family="Arial, Helvetica, sans-serif" font-weight="700">Frontend</text>
+    <rect x="771" y="126" width="112" height="8" rx="4" fill="#334155"/>
+    <rect x="771" y="143" width="78" height="8" rx="4" fill="url(#accent)"/>
+
+    <rect x="947" y="72" width="178" height="104" rx="18" fill="#0F172A" stroke="#2DD4BF" stroke-opacity="0.55"/>
+    <circle cx="977" cy="101" r="8" fill="#2DD4BF"/>
+    <text x="997" y="108" fill="white" font-size="17" font-family="Arial, Helvetica, sans-serif" font-weight="700">Backend</text>
+    <rect x="973" y="126" width="112" height="8" rx="4" fill="#334155"/>
+    <rect x="973" y="143" width="92" height="8" rx="4" fill="url(#accent)"/>
+
+    <rect x="745" y="198" width="178" height="104" rx="18" fill="#0F172A" stroke="#A5F3FC" stroke-opacity="0.55"/>
+    <circle cx="775" cy="227" r="8" fill="#A5F3FC"/>
+    <text x="795" y="234" fill="white" font-size="17" font-family="Arial, Helvetica, sans-serif" font-weight="700">Infraestrutura</text>
+    <rect x="771" y="252" width="112" height="8" rx="4" fill="#334155"/>
+    <rect x="771" y="269" width="68" height="8" rx="4" fill="url(#accent)"/>
+
+    <rect x="947" y="198" width="178" height="104" rx="18" fill="#0F172A" stroke="#5EEAD4" stroke-opacity="0.55"/>
+    <circle cx="977" cy="227" r="8" fill="#5EEAD4"/>
+    <text x="997" y="234" fill="white" font-size="17" font-family="Arial, Helvetica, sans-serif" font-weight="700">Produto</text>
+    <rect x="973" y="252" width="112" height="8" rx="4" fill="#334155"/>
+    <rect x="973" y="269" width="98" height="8" rx="4" fill="url(#accent)"/>
+  </g>
+
+  <path d="M923 124H947M834 176V198M1036 176V198M923 250H947" stroke="#7DD3FC" stroke-width="3" stroke-linecap="round" stroke-dasharray="4 7"/>
+</svg>
