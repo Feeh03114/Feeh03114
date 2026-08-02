@@ -106,11 +106,10 @@ Gosto de decisões simples, código que outra pessoa consiga manter e arquitetur
   </tr>
 </table>
 
-## Atividade no GitHub
+## Contribuições públicas
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Feeh03114&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&theme=transparent&hide_border=true" alt="Estatísticas do GitHub de Felipe Alessander">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feeh03114&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&locale=pt-br&theme=transparent&hide_border=true" alt="Linguagens mais utilizadas por Felipe Alessander">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Feeh03114&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições públicas de Felipe Alessander">
 </div>
 
 ## O que estou estudando
