@@ -74,23 +74,17 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">UniCore</h3>
       <p align="center"><strong>ERP e PDV para restaurantes e varejo</strong></p>
       <p>Reúne vendas, estoque, emissão fiscal, cozinha, autoatendimento, cardápios e gestão de dispositivos.</p>
       <p align="center"><a href="https://unicore.waxp.com.br"><strong>Conhecer o UniCore</strong></a></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">ImobXP</h3>
       <p align="center"><strong>Sistema para imobiliárias</strong></p>
       <p>Organiza imóveis, atendimento comercial, presença digital e rotinas da operação imobiliária.</p>
       <p align="center"><a href="https://imobxp.com.br"><strong>Conhecer o ImobXP</strong></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">AtendXP</h3>
-      <p align="center"><strong>Atendimento em vários canais</strong></p>
-      <p>Usa o Chatwoot como base e adiciona personalizações, automações e integrações para empresas.</p>
-      <p align="center"><a href="https://atendxp.waxp.com.br"><strong>Conhecer o AtendXP</strong></a></p>
     </td>
   </tr>
 </table>
